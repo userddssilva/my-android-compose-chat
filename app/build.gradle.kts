@@ -60,6 +60,7 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.1")
     implementation("org.jetbrains.kotlinx:kotlinx-datetime:0.6.1")
     implementation("io.coil-kt:coil-compose:2.7.0")
+    implementation(libs.extended.icons)
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
